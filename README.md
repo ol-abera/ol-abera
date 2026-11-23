@@ -2,7 +2,7 @@
 
 ### Aspiring Full-Stack Developer | AI Enthusiast
 
-I'm a Computer Science student at **Jimma University** with a passion for building practical solutions through technology. I enjoy exploring new technologies, developing projects, and continuously improving my skills in software development and artificial intelligence.
+I'm a  software engineering student at **Jimma University** with a passion for building practical solutions through technology. I enjoy exploring new technologies, developing projects, and continuously improving my skills in software development and artificial intelligence.
 
 Currently, I'm focused on building full-stack applications and working toward becoming an AI Engineer.
 
@@ -10,7 +10,7 @@ Currently, I'm focused on building full-stack applications and working toward be
 
 ### 🚀 About Me
 
-- 🎓 Computer Science student at Jimma University
+- 🎓 Software Engineering student at Jimma University
 - 💻 Interested in Full-Stack Development and Artificial Intelligence
 - 🌱 Currently learning and building projects with React, Node.js, Python, and PostgreSQL
 - 🛠️ I enjoy turning ideas into real-world applications
