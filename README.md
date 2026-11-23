@@ -64,24 +64,16 @@ Currently, I'm focused on building full-stack applications and working toward be
 
 ---
 
-### 📊 GitHub
-
-[![GitHub Profile](https://github.com/ol-abera)](https://github.com/ol-abera)
-
----
-
-### 🌍 Languages
-
-- English
-- Afaan Oromoo
-- Amharic
-
----
-
 ### 📫 Connect With Me
 
-- GitHub: [@ol-abera](https://github.com/ol-abera)
-- LinkedIn: [Olantu Abera](https://www.linkedin.com/in/olantu-abara-5507b939/)
+\<p align="left">
+&#x20; \<a href="[https://github.com/ol-abera](https://github.com/ol-abera)">
+&#x20;   \<img src="[https://skillicons.dev/icons?i=github](https://skillicons.dev/icons?i=github)" width="40" />
+&#x20; \</a>
+&#x20; \<a href="[https://www.linkedin.com/in/olantu-abara-5507b939/](https://www.linkedin.com/in/olantu-abara-5507b939/)">
+&#x20;   \<img src="[https://skillicons.dev/icons?i=linkedin](https://skillicons.dev/icons?i=linkedin)" width="40" />   \</a>   \<a href="mailto: olantuabara\@gmail.com">     \<img src="[https://img.icons8.com/color/48/gmail-new.png](https://img.icons8.com/color/48/gmail-new.png)" width="40" />
+&#x20; \</a>
+\</p>
 
 ---
 
