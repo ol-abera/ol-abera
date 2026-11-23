@@ -18,26 +18,40 @@ Currently, I'm focused on building full-stack applications and working toward be
 
 ---
 
+
 ### 🛠️ Tech Stack
 
-**Frontend**
-- HTML, CSS, JavaScript, Typescript
-- React
+#### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nextjs" />
+</p>
 
-**Backend**
-- Node.js
-- Express.js
-- Python
+#### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+</p>
 
-**Database**
-- PostgreSQL
-- SQLite
+#### Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql" />
+</p>
 
-**Tools**
-- Git & GitHub
-- VS Code
+#### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
+
+### 🌍 Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Afaan_Oromoo-Native-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Amharic-Fluent-orange?style=for-the-badge" />
+</p>
+
+
 
 ### 📌 Projects
 
